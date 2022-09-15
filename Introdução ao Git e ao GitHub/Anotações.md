@@ -74,7 +74,7 @@ Outros comandos: clear ou cl (limpa o painel)
 
 ## 4. Ciclo de Vida no Git
 
-![Ciclo de Vida no Git!](D:\Dev\Git\Dio\dio-desafio-github_prim.repositorio\Introdução ao Git e ao GitHub\images\image1.png "Ciclo de Vida no Git")
+![image1](https://github.com/luguifal/dio-desafio-github_prim.repositorio/blob/cdd622f0949c884d48e005f4fd9c5200f9822ce6/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub/images/image1.png "Image 1")
 
 ## 5. Passos iniciais no Git
 
